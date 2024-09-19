@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Laurent</h1>
-<h3 align="center">Currently a student at CY Paris Université for a B.s. in CS.</h3>
+<h1 align="center">Hi 👋, I'm Laurent LIN</h1>
+<h3 align="center">Currently a student at Université Paris Cité for a MSc in Distributed AI.</h3>
 
 <p align="left">
 </p>
